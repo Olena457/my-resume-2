@@ -116,8 +116,9 @@ body {
 .aside-wrapper {
   padding-top: 40px;
   width: 380px;
-  /* background-color: #1e2939; */
-  background-image: linear-gradient(135deg, #034e5d 0%, #130018 100%);
+  background-image: linear-gradient(135deg, #f93105 0%, #9c0901 100%);
+  /* background-image: linear-gradient(135deg, #034e5d 0%, #130018 100%); */
+  /* background-image: linear-gradient(135deg, #ff420b 0%, #f5de01 100%); */
   /* background-image: linear-gradient(135deg, #090013 0%, #052f98 100%); */
 }
 
